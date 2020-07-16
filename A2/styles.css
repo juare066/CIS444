@@ -1,0 +1,19 @@
+/*
+//Name: Fernando Juarez
+//Date: September 18, 2019
+//Assignent: HW2
+//Description: Stylesheet for A2.html
+*/
+
+dt
+{
+font-family:Courier;
+font-size:1em;
+}
+
+dd
+{
+font-family:Times Roman;
+font-style:italic;
+font-size:1.1em;
+}

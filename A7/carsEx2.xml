@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="carsEx3.css"?>
+
+<!--
+		Fernando Juarez
+		CIS444 Homework 7
+		carsEx2.xml
+		URL: http://cis444.cs.csusm.edu/juare066/hw7/carsEx2.xml
+-->
+<catalog
+	xmlns="http://cis444.cs.csusm.edu"
+	xmlns:xsi="http://w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://cis444.cs.csusm.edu/juare066/hw7/cars.xsd">
+
+	<h1> Cars Catalog </h1>
+	
+	<car>
+		<make> <h4> Make: </h4> Ford </make>
+		<model> <h4> Model: </h4> Mustang </model>
+		<year> <h4> Year: </h4> 2010 </year>
+		<color> <h4> Color: </h4> Gunsmoke </color>
+		
+		<engine>
+			<cylinders> <h4> Cylinders: </h4> 6 </cylinders>
+			<fuel_system> <h4> Fuel System </h4> Fuel Injected </fuel_system>
+		</engine>
+		
+			<number_of_doors> <h4> Doors: </h4> 4 </number_of_doors>
+			<transmission_type> <h4> Transmission: </h4> Automatic </transmission_type>
+			
+		<accessories>
+			<radio> <h4> Radio: </h4> yes </radio>
+			<air_conditioning> <h4> Air Conditioning: </h4> yes </air_conditioning>
+			<power_windows> <h4> Power Windows: </h4> yes </power_windows>
+			<power_steering> <h4> Power Steering: </h4> yes </power_steering>
+			<power_brakes> <h4> Power Brakes: </h4> yes </power_brakes>
+		</accessories>
+		
+	</car>
+
+	<car>
+		<make> <h4> Make: </h4> Honda </make>
+		<model> <h4> Model: </h4> Fit </model>
+		<year> <h4> Year: </h4> 2013 </year>
+		<color> <h4> Color: </h4> Silver </color>
+		
+		<engine>
+			<cylinders> <h4> Cylinders: </h4> 4 </cylinders>
+			<fuel_system> <h4> Fuel System </h4> Fuel Injected </fuel_system>
+		</engine>
+		
+		<number_of_doors> <h4> Doors: </h4> 5 </number_of_doors>
+		<transmission_type> <h4> Transmission: </h4> Automatic </transmission_type>
+				
+		<accessories>
+			<radio> <h4> Radio: </h4> yes </radio>
+			<air_conditioning> <h4> Air Conditioning: </h4> yes </air_conditioning>
+			<power_windows> <h4> Power Windows: </h4> yes </power_windows>
+			<power_steering> <h4> Power Steering: </h4> yes </power_steering>
+			<power_brakes> <h4> Power Brakes: </h4> yes </power_brakes>
+		</accessories>
+		
+	</car>
+	
+	<car>
+		<make> <h4> Make: </h4> Toyota </make>
+		<model> <h4> Model: </h4> Corrola </model>
+		<year> <h4> Year: </h4> 2010 </year>
+		<color> <h4> Color: </h4> Black </color>
+		
+		<engine>
+			<cylinders> <h4> Cylinders: </h4> 6 </cylinders>
+			<fuel_system> <h4> Fuel System </h4> Fuel Injected </fuel_system>
+		</engine>
+		
+		<number_of_doors> <h4> Doors: </h4> 4 </number_of_doors>
+		<transmission_type> <h4> Transmission: </h4> Automatic </transmission_type>
+		
+		<accessories>
+			<radio> <h4> Radio: </h4> yes </radio>
+			<air_conditioning> <h4> Air Conditioning: </h4> yes </air_conditioning>
+			<power_windows> <h4> Power Windows: </h4> yes </power_windows>
+			<power_steering> <h4> Power Steering: </h4> yes </power_steering>
+			<power_brakes> <h4> Power Brakes: </h4> yes </power_brakes>
+		</accessories>
+		
+	</car>
+	
+	<car>
+		<make> <h4> Make: </h4> Honda </make>
+		<model> <h4> Model: </h4> Civic </model>
+		<year> <h4> Year: </h4> 2012 </year>
+		<color> <h4> Color: </h4> Gray </color>
+		
+		<engine>
+			<cylinders> <h4> Cylinders: </h4> 6 </cylinders>
+			<fuel_system> <h4> Fuel System </h4> Fuel Injected </fuel_system>
+		</engine>
+		
+		<number_of_doors> <h4> Doors: </h4> 4 </number_of_doors>
+		<transmission_type> <h4> Transmission: </h4> Automatic </transmission_type>
+				
+		<accessories>
+			<radio> <h4> Radio: </h4> yes </radio>
+			<air_conditioning> <h4> Air Conditioning: </h4> yes </air_conditioning>
+			<power_windows> <h4> Power Windows: </h4> yes </power_windows>
+			<power_steering> <h4> Power Steering: </h4> yes </power_steering>
+			<power_brakes> <h4> Power Brakes: </h4> yes </power_brakes>
+		</accessories>
+		
+	</car>
+	
+	<car>
+		<make> <h4> Make: </h4> Nissan </make>
+		<model> <h4> Model: </h4> GTR </model>
+		<year> <h4> Year: </h4> 2015 </year>
+		<color> <h4> Color: </h4> Black </color>
+		
+		<engine>
+			<cylinders> <h4> Cylinders: </h4> 6 </cylinders>
+			<fuel_system> <h4> Fuel System </h4> Fuel Injected </fuel_system>
+		</engine>
+		
+		<number_of_doors> <h4> Doors: </h4> 2 </number_of_doors>
+		<transmission_type> <h4> Transmission: </h4> Automatic </transmission_type>
+				
+		<accessories>
+			<radio> <h4> Radio: </h4> yes </radio>
+			<air_conditioning> <h4> Air Conditioning: </h4> yes </air_conditioning>
+			<power_windows> <h4> Power Windows: </h4> yes </power_windows>
+			<power_steering> <h4> Power Steering: </h4> yes </power_steering>
+			<power_brakes> <h4> Power Brakes: </h4> yes </power_brakes>
+		</accessories>
+		
+	</car>
+	
+</catalog>
+		
+	

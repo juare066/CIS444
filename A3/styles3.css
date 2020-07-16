@@ -1,0 +1,15 @@
+body {
+  font-family: times new roman;
+}
+th {
+  color: #0a0a0a;
+  background-color: ##ffffff;
+}
+td, th {
+  padding: 10px 30px 10px 30px;
+}
+table, td, th {
+  border-collapse: collapse;
+  border: 1px solid #e3e3e3;
+  text-align: center;
+}

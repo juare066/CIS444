@@ -1,0 +1,34 @@
+/*
+	Fernando Juarez
+	CIS444 Homework 7
+	carsEx3.css
+	URL: http://cis444.cs.csusm.edu/juare066/hw7/carsEx3.css
+*/
+
+h1 {
+	text-align: center;
+	display: block;
+	font-size: 35px;
+	font-style: bold;
+}	
+
+h4 {
+	font-family: arial;
+}
+
+car {
+	margin-left:auto;
+	margin-right: auto;
+	display: block;
+}
+
+radio, air_conditioning, power_windows, power_steering, power_brakes {
+	display: block;
+	font-size: 12pt
+}
+
+make, model, year, color, cylinders, fuel_system, number_of_doors, transmission_type {
+	display: block;
+	font-size: 12pt;
+}
+
